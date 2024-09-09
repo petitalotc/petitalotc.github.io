@@ -6,7 +6,7 @@ title: "Sports App"
 date: 2021
 published: true
 labels:
-- ReactNative
+  - ReactNative
   - Expo
   - Java
   - Quarkus
