@@ -112,7 +112,8 @@
       "summary": "During my apprenticeship, I worked on a project for Michelin Competition, where the objective was to rewrite an old application using more modern technologies. This task involved upgrading the existing system to enhance performance, maintainability, and adaptability to current technological standards.",
       "highlights": [
         "Re-write an existing application with new languages",
-        "Design and build website screens"
+        "Design and build website screens",
+        "Git, AngularJS, JPA, Tomcat, Jenkins"
       ]
     },
     {
@@ -124,7 +125,8 @@
       "summary": "I worked as a developer for Michelin, where I joined a team of several developers as part of a large, multi-team project. My primary responsibility was to build an API that allowed the manipulation of tire measurements as well as the associated reference data. This API played a key role in ensuring the accurate handling of data related to tire performance and characteristics.",
       "highlights": [
         "Maintain and update existing code base",
-        "Design and build custom API"
+        "Design and build custom API",
+        "Git, Java, Vert.X, Grails, Quarkus, MongoDB, MySQL, Grafana, Splunk, InfluxDB, Docker, AngularJS, Neo4J, Kubernetes"
       ]
     },
     {
@@ -136,7 +138,8 @@
       "summary": "During this mission, I took on a lead position within the team I was working in, where I was responsible for making key architecture decisions and reporting on the work being carried out by my team. This role required strong leadership and technical oversight to ensure the success of the projects we were involved in.",
       "highlights": [
         "Design architecture",
-        "Coaching and helping developers"
+        "Coaching and helping developers",
+        "Git, Java, Quarkus, MongoDB, Neo4J, Gitlab CI, Azure Cloud, Terraform, Ansible"
       ]
     },
     {
@@ -147,7 +150,8 @@
       "endDate": "2022-06-31",
       "summary": "I worked for Enedis (Paris). I helped implement a new structural component using Kafka and the Scala programming language. Additionally, I contributed to another project that enabled users to access various reports created by the team in PowerBI through a web portal.",
       "highlights": [
-        "Accessing power bi embedded reports with custom OAuth"
+        "Accessing power bi embedded reports with custom OAuth",
+        "Angular, Java, SpringBoot, Scala, Kafka"
       ]
     },
     {
@@ -159,7 +163,8 @@
       "summary": "I joined a small team tasked with setting up a web portal at Michelin, aimed at exposing APIs and datasets that Michelin intended to offer to the public and monetize. In this project, I took on a DevOps role, managing the infrastructure and optimizing the performance of the site within Michelin's ecosystem.",
       "highlights": [
         "Infrastructure provisioning",
-        "Performance tuning"
+        "Performance tuning",
+        "Git, Azure Cloud, Ansible, Drupal, Gitlab CI"
       ]
     },
     {
@@ -170,7 +175,8 @@
       "endDate": "2023-12-31",
       "summary": "I had the opportunity to start a new exploratory project with a young colleague for a local client. This project allowed us to get hands-on experience and test MAUI, Microsoft's new framework for cross-platform mobile development. It was a great chance to dive into this emerging technology.",
       "highlights": [
-        "Explore new technology (.NET MAUI)"
+        "Explore new technology (.NET MAUI)",
+        "Git, Azure Devops, MAUI"
       ]
     },
     {
@@ -182,7 +188,8 @@
       "summary": "I joined the DevOps transversal team at Michelin Mobility Intelligence, where I am responsible for automating deployment tasks and managing the infrastructure of their website. This role involves ensuring efficient operations and scalability for their web platform.",
       "highlights": [
         "Infrastructure provisioning",
-        "Performance tuning"
+        "Performance tuning",
+        "Git, Azure Cloud, WordPress, Gitlab CI, Azure Devops, Ansible"
       ]
     }
   ],
