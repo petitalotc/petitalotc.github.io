@@ -1,113 +1,217 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Camille Petitalot",
+    "label": "Tech Lead & DevOps",
+    "picture": "https://www.volcamp.io/asset/images/orga/cpe.jpg",
+    "email": "camille.petitalot@gmail.com",
+    "website": "https://petitalotc.github.io",
+    "summary": "I enjoy learning and tackling technical challenges, and the \"you build it, you run it\" philosophy aligns perfectly with my nature. I'm also very interested in FinOps-related issues, particularly when it comes to protecting our beautiful planet.",
+    "location": {
+      "address": "",
+      "postalCode": "63100",
+      "city": "Clermont-Ferrand",
+      "countryCode": "France",
+      "region": ""
+    },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      {
+        "network": "github",
+        "username": "petitalotc",
+        "url": "http://github.com/petitalotc"
+      },
+      {
+        "network": "linkedin",
+        "username": "camille-petitalot",
+        "url": "https://www.linkedin.com/in/camille-petitalot-7777a9a3"
+      }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    {
+      "name": "Puzzles"
+    },
+    {
+      "name": "Biking"
+    },
+    {
+      "name": "Cats"
+    },
+    {
+      "name": "Ankama Universe"
+    }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [
+        "Java",
+        "Quarkus",
+        "SpringBoot",
+        "Javascript",
+        "ReactJS",
+        "ReactNative",
+        "Expo",
+        "Angular",
+        "Python",
+        "Ansible",
+        "Terraform",
+        "MongoDB",
+        "PostgreSQL",
+        "MySQL",
+        ".NET/MAUI",
+        "PHP"
+      ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [
+        "MacOS",
+        "Ubuntu/WSL2",
+        "Git",
+        "GitHub Actions",
+        "Gitlab CI",
+        "Azure Devops",
+        "Jira",
+        "Notion",
+        "Azure Cloud",
+        "Docker",
+        "Kubernetes",
+        "Keycloak",
+        "Kafka",
+        "Apigee (edge)"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
+      "institution": "IUT Informatique - Aubière",
+      "area": "Computer Science",
+      "studyType": "DUT",
       "startDate": "2013-09-01",
-      "endDate": "Present",
+      "endDate": "2015-09-01",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "IUT Informatique - Aubière",
+      "area": "Computer Science (oriented on mobile devices)",
+      "studyType": "Licence Pro.",
+      "startDate": "2015-09-01",
+      "endDate": "2016-09-01",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "CGI - Clermont-Ferrand",
+      "position": "Developer",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2015-10-15",
+      "endDate": "2016-07-01",
+      "summary": "During my apprenticeship, I worked on a project for Michelin Competition, where the objective was to rewrite an old application using more modern technologies. This task involved upgrading the existing system to enhance performance, maintainability, and adaptability to current technological standards.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Re-write an existing application with new languages",
+        "Design and build website screens"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "CGI - Clermont-Ferrand",
+      "position": "Developer / Tech Lead",
+      "website": "",
+      "startDate": "2016-07-01",
+      "endDate": "2021-10-31",
+      "summary": "I worked as a developer for Michelin, where I joined a team of several developers as part of a large, multi-team project. My primary responsibility was to build an API that allowed the manipulation of tire measurements as well as the associated reference data. This API played a key role in ensuring the accurate handling of data related to tire performance and characteristics.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Maintain and update existing code base",
+        "Design and build custom API"
+      ]
+    },
+    {
+      "company": "Agaetis - Clermont-Ferrand",
+      "position": "Tech Lead",
+      "website": "https://agaetis.fr",
+      "startDate": "2021-11-01",
+      "endDate": "2022-01-15",
+      "summary": "During this mission, I took on a lead position within the team I was working in, where I was responsible for making key architecture decisions and reporting on the work being carried out by my team. This role required strong leadership and technical oversight to ensure the success of the projects we were involved in.",
+      "highlights": [
+        "Design architecture",
+        "Coaching and helping developers"
+      ]
+    },
+    {
+      "company": "Agaetis - Clermont-Ferrand",
+      "position": "Lead Developer",
+      "website": "https://agaetis.fr",
+      "startDate": "2022-01-16",
+      "endDate": "2022-06-31",
+      "summary": "I worked for Enedis (Paris). I helped implement a new structural component using Kafka and the Scala programming language. Additionally, I contributed to another project that enabled users to access various reports created by the team in PowerBI through a web portal.",
+      "highlights": [
+        "Accessing power bi embedded reports with custom OAuth"
+      ]
+    },
+    {
+      "company": "Agaetis - Clermont-Ferrand",
+      "position": "Devops",
+      "website": "https://agaetis.fr",
+      "startDate": "2022-06-31",
+      "endDate": "2023-01-01",
+      "summary": "I joined a small team tasked with setting up a web portal at Michelin, aimed at exposing APIs and datasets that Michelin intended to offer to the public and monetize. In this project, I took on a DevOps role, managing the infrastructure and optimizing the performance of the site within Michelin's ecosystem.",
+      "highlights": [
+        "Infrastructure provisioning",
+        "Performance tuning"
+      ]
+    },
+    {
+      "company": "Agaetis - Clermont-Ferrand",
+      "position": "Tech Lead",
+      "website": "https://agaetis.fr",
+      "startDate": "2023-01-01",
+      "endDate": "2023-12-31",
+      "summary": "I had the opportunity to start a new exploratory project with a young colleague for a local client. This project allowed us to get hands-on experience and test MAUI, Microsoft's new framework for cross-platform mobile development. It was a great chance to dive into this emerging technology.",
+      "highlights": [
+        "Explore new technology (.NET MAUI)"
+      ]
+    },
+    {
+      "company": "Agaetis - Clermont-Ferrand",
+      "position": "Tech Lead & DevOps",
+      "website": "https://mobilityintelligence.michelin.com/fr/",
+      "startDate": "2023-01-01",
+      "endDate": "Present",
+      "summary": "I joined the DevOps transversal team at Michelin Mobility Intelligence, where I am responsible for automating deployment tasks and managing the infrastructure of their website. This role involves ensuring efficient operations and scalability for their web platform.",
+      "highlights": [
+        "Infrastructure provisioning",
+        "Performance tuning"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Volcamp",
+      "website": "https://volcamp.io",
+      "position": "Volunteer",
+      "startDate": "2021-01-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "I am a member of the association that organizes Volcamp, a conference held in the heart of the Auvergne volcanoes, which focuses on tech topics related to IT professions. It's a great event that brings together professionals and enthusiasts to discuss the latest trends and developments in the industry.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Volcamp",
+        "Tech Conference"
       ]
     },
     {
-      "organization": "",
+      "organization": "IUT Informatique - Aubière",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Temporary teacher",
+      "startDate": "2020-09-01",
+      "endDate": "Present",
+      "summary": "I am also a temporary teacher, sharing my knowledge and experience in the field with students and helping them develop their skills in technology and IT.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "MongoDB",
+        "ReactNative",
+        "Swift",
+        "CI/CD"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
