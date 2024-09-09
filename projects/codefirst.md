@@ -20,7 +20,7 @@ CodeFirst is a project that aims to provide, for IT students in the "BUT Informa
 This project utilizes widely-used open-source or free tools, such as GitLab, SonarQube, and Minikube. We strive to keep these tools up to date so that the students' experience with CodeFirst will give them a valuable advantage when they transition to the workplace.
 <hr>
 
-The CodeFirst project was conceived and initiated by Marc Chevaldonné, a computer science teacher-researcher at the University of Clermont Auvergne, who also led its previous version.
+The CodeFirst project was conceived and initiated by [Marc Chevaldonné](https://fr.linkedin.com/in/marc-chevaldonn%C3%A9-8902a0205), a computer science teacher-researcher at the University of Clermont Auvergne, who also led its previous version.
 
 I've had the opportunity to work with him on the second version of this project since 2023.
 

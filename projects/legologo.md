@@ -12,7 +12,7 @@ labels:
 summary: "Project to help learning computer science for children."
 ---
 
-<img class="img-fluid" src="../img/legologo/tortankLegoLOGO.png">
+<img class="img-fluid" style="height: 500px; margin-right: 20px;"  src="../img/legologo/tortankLegoLOGO.png">
 
 As part of our second year of studies at the IUT Informatique in Clermont-Ferrand, 
 we had the opportunity to participate in a supervised project.
@@ -70,7 +70,7 @@ displays the instructions and forwards them to the robot. This process is also u
 in the card and tile modes, where the phone isn't required. The tablet handles the 
 execution of instructions sent to the robot in these cases.
 
-<img class="img-fluid" src="../img/legologo/scanCarte.png">
+<img class="img-fluid"  style="height: 500px; margin-right: 20px;"  src="../img/legologo/scanCarte.png">
 
 <hr/>
 
