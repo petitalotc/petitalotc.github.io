@@ -104,20 +104,7 @@
   ],
   "work": [
     {
-      "company": "CGI - Clermont-Ferrand",
-      "position": "Developer",
-      "website": "",
-      "startDate": "2015-10-15",
-      "endDate": "2016-07-01",
-      "summary": "During my apprenticeship, I worked on a project for Michelin Competition, where the objective was to rewrite an old application using more modern technologies. This task involved upgrading the existing system to enhance performance, maintainability, and adaptability to current technological standards.",
-      "highlights": [
-        "Re-write an existing application with new languages",
-        "Design and build website screens",
-        "Git, AngularJS, JPA, Tomcat, Jenkins"
-      ]
-    },
-    {
-      "company": "CGI - Clermont-Ferrand",
+      "company": "CGI (for Michelin) - Clermont-Ferrand",
       "position": "Developer / Tech Lead",
       "website": "",
       "startDate": "2016-07-01",
@@ -130,7 +117,7 @@
       ]
     },
     {
-      "company": "Agaetis - Clermont-Ferrand",
+      "company": "Agaetis (for Michelin) - Clermont-Ferrand",
       "position": "Tech Lead",
       "website": "https://agaetis.fr",
       "startDate": "2021-11-01",
@@ -143,7 +130,7 @@
       ]
     },
     {
-      "company": "Agaetis - Clermont-Ferrand",
+      "company": "Agaetis (for Enedis) - Clermont-Ferrand",
       "position": "Lead Developer",
       "website": "https://agaetis.fr",
       "startDate": "2022-01-16",
@@ -155,7 +142,7 @@
       ]
     },
     {
-      "company": "Agaetis - Clermont-Ferrand",
+      "company": "Agaetis (for Michelin) - Clermont-Ferrand",
       "position": "Devops",
       "website": "https://agaetis.fr",
       "startDate": "2022-06-31",
@@ -168,7 +155,7 @@
       ]
     },
     {
-      "company": "Agaetis - Clermont-Ferrand",
+      "company": "Agaetis (for DeltaMu) - Clermont-Ferrand",
       "position": "Tech Lead",
       "website": "https://agaetis.fr",
       "startDate": "2023-01-01",
@@ -180,7 +167,7 @@
       ]
     },
     {
-      "company": "Agaetis - Clermont-Ferrand",
+      "company": "Agaetis (for Michelin) - Clermont-Ferrand",
       "position": "Tech Lead & DevOps",
       "website": "https://mobilityintelligence.michelin.com/fr/",
       "startDate": "2023-01-01",
